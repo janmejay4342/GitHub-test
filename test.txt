@@ -26,5 +26,6 @@ git pull
 git merge development
 git push origin master
 	
- 	
+/* Conflict management*/ 	
 - change file by develop
+-- Change by master
