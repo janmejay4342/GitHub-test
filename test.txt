@@ -29,3 +29,8 @@ git push origin master
 /* Conflict management*/ 	
 - change file by develop
 -- Change by master
+
+/*See the logs*/
+git log --oneline
+
+
