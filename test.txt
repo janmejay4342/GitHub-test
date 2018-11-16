@@ -1,0 +1,24 @@
+#how to create new git project
+
+1)Install git bash 
+2)set git config
+3)Create github account
+4)Create repository in guthub account 
+	- Get the https url 
+	- Get the SSH url to generate keys
+5)Create project locally
+	- git init <<project Name>>	
+	- add files and projects
+	- git add <<file Name>> for perticular file
+	- git add . for all files
+	- git commit -m "commit name"
+	- git remote add origin <<https/ssh path>>
+	- git remote -u origin <<branch Name>>
+	- git clone <<https/ssh path>> If you want to clone the project locally 
+	
+6) git branch <branch name>>	 -- create branch 
+7) git checkout branch <branch name>>	 -- checkout branch 
+	
+	
+	
+ 	
