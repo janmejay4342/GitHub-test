@@ -34,3 +34,6 @@ git push origin master
 git log --oneline
 
 
+/*delete tags*/
+git tag -d release
+
