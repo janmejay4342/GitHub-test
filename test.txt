@@ -19,6 +19,11 @@
 6) git branch <branch name>>	 -- create branch 
 7) git checkout branch <branch name>>	 -- checkout branch 
 	
-	
+/* Merge from one branch to another branch*/
+git pull (current development branch)
+git checkout master
+git pull
+git merge development
+git push origin master
 	
  	
